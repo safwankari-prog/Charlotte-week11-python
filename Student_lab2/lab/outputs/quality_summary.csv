@@ -1,0 +1,7 @@
+metric,value
+scada_input_rows,9
+las_input_rows,9
+merged_output_rows,9
+pressure_missing_count,1
+flow_missing_count,1
+unmatched_merge_rows,0
