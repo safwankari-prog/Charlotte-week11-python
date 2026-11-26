@@ -1,0 +1,10 @@
+well_id,depth_m,pressure_psi,temperature_c,flow_m3_h,operating_mode
+WELL-B,1000,2788,65.0,12.5,production
+WELL-B,1001,2832,66.8,12.95,production
+WELL-B,1002,2876,68.6,13.4,production
+WELL-B,1003,2884,70.4,13.85,standby
+WELL-B,1004,2928,72.2,14.3,production
+WELL-B,1005,,74.0,14.75,production
+WELL-B,1006,2980,75.8,15.2,production
+WELL-B,1007,3024,77.6,,standby
+WELL-B,1008,3068,79.4,16.1,production
