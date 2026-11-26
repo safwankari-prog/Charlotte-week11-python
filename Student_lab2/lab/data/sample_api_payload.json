@@ -1,0 +1,15 @@
+{
+  "source": "synthetic sensor gateway",
+  "measurements": [
+    {
+      "sensor_id": "P-1",
+      "reading": 2812.0,
+      "unit": "psi"
+    },
+    {
+      "sensor_id": "T-1",
+      "reading": 68.4,
+      "unit": "C"
+    }
+  ]
+}
